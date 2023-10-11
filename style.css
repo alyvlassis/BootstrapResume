@@ -1,0 +1,19 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+.center-text {
+	text-align: center;
+}
+h1 {
+	color: black; 
+	background-color: lightsteelblue;
+}
+ul {
+	list-style-type: disc;
+	margin-left: 20px;
+	padding-left: 0;
+}
+.section-header {
+	background-color: rgb(255, 240, 205);
+	color: black;
+	padding: 5px;
+	margin-bottom: 20px;
+}
